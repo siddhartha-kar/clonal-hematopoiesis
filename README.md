@@ -11,4 +11,4 @@ This repository has two directories:
 - `Mendelian_randomization` which includes the R scripts and data used for the Mendelian randomization analyses.
   - Filenames for the R scripts are in the format ``[CH overall or subtype-specific]_as_exp_[outcome category]_out.R``, where `as_exp` indicates that CH is the exposure and `out` refers to outcomes. Outcome categories include miscellaneous (`misc`), epigenetic (`epigen`), and leukocyte telomere length (`tl`). The outcome data sets can be accessed either through the tab-delimited plain text files ending in `...ids.txt` or can be downloaded via the links provided within the relevant R scripts. 
 
-<sup>**</sup>N.B. Due to legal restrictions, we cannot provide genome sequence data from the UK Biobank. To apply for access to these data please visit the [UK Biobank](https://www.ukbiobank.ac.uk/).
+<sup>**</sup>N.B. To apply for access to the exome sequence data please visit the [UK Biobank](https://www.ukbiobank.ac.uk/).
