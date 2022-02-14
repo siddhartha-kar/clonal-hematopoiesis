@@ -1,0 +1,104 @@
+id	trait
+ieu-a-965	Lung adenocarcinoma
+ieu-a-966	Lung cancer
+ieu-a-967	Squamous cell lung cancer
+ieu-b-90	Oral cavity and pharyngeal cancer
+ieu-a-1126	Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis)
+ieu-a-1120	Ovarian cancer
+ebi-a-GCST006464	Endometrial cancer
+ieu-b-85	Prostate cancer
+ebi-a-GCST90000032	Myeloproliferative neoplasms
+ebi-a-GCST006906	Stroke
+ebi-a-GCST006907	Ischemic stroke (large artery atherosclerosis)
+ebi-a-GCST006908	Ischemic stroke
+ebi-a-GCST006909	Ischemic stroke (small-vessel)
+ebi-a-GCST006910	Ischemic stroke (cardioembolic)
+ebi-a-GCST006414	Atrial fibrillation
+ebi-a-GCST009541	Heart failure
+ebi-a-GCST003116	Coronary artery disease
+ieu-a-798	Myocardial infarction
+ebi-a-GCST004599	Mean platelet volume
+ebi-a-GCST004600	Eosinophil percentage of white cells
+ebi-a-GCST004601	Red blood cell count
+ebi-a-GCST004602	Mean corpuscular volume
+ebi-a-GCST004603	Platelet count
+ebi-a-GCST004604	Hematocrit
+ebi-a-GCST004605	Mean corpuscular hemoglobin concentration
+ebi-a-GCST004606	Eosinophil counts
+ebi-a-GCST004607	Plateletcrit
+ebi-a-GCST004608	Granulocyte percentage of myeloid white cells
+ebi-a-GCST004609	Monocyte percentage of white cells
+ebi-a-GCST004610	White blood cell count
+ebi-a-GCST004611	High light scatter reticulocyte count
+ebi-a-GCST004612	High light scatter reticulocyte percentage of red cells
+ebi-a-GCST004613	Sum neutrophil eosinophil counts
+ebi-a-GCST004614	Granulocyte count
+ebi-a-GCST004615	Hemoglobin concentration
+ebi-a-GCST004616	Platelet distribution width
+ebi-a-GCST004617	Eosinophil percentage of granulocytes
+ebi-a-GCST004618	White blood cell count (basophil)
+ebi-a-GCST004619	Reticulocyte fraction of red cells
+ebi-a-GCST004620	Sum basophil neutrophil counts
+ebi-a-GCST004621	Sum basophil neutrophil counts
+ebi-a-GCST004622	Reticulocyte count
+ebi-a-GCST004623	Neutrophil percentage of granulocytes
+ebi-a-GCST004624	Sum eosinophil basophil counts
+ebi-a-GCST004625	Monocyte count
+ebi-a-GCST004626	Myeloid white cell count
+ebi-a-GCST004627	Lymphocyte counts
+ebi-a-GCST004628	Immature fraction of reticulocytes
+ebi-a-GCST004629	Neutrophil count
+ebi-a-GCST004630	Mean corpuscular hemoglobin
+ebi-a-GCST004631	Basophil percentage of white cells
+ebi-a-GCST004632	Lymphocyte percentage of white cells
+ebi-a-GCST004633	Neutrophil percentage of white cells
+ebi-a-GCST004634	Basophil percentage of granulocytes
+ebi-a-GCST006867	Type 2 diabetes
+ieu-b-107	apolipoprotein A-I
+ieu-b-108	apolipoprotein B
+ieu-b-109	HDL cholesterol
+ieu-b-110	LDL cholesterol
+ieu-b-111	triglycerides
+ukb-b-19953	Body mass index (BMI)
+ukb-b-9405	Waist circumference
+ebi-a-GCST004420	CTACK levels
+ebi-a-GCST004421	beta-nerve growth factor levels
+ebi-a-GCST004422	Vascular endothelial growth factor levels
+ebi-a-GCST004423	Macrophage Migration Inhibitory Factor levels
+ebi-a-GCST004424	TRAIL levels
+ebi-a-GCST004425	Tumor necrosis factor beta levels
+ebi-a-GCST004426	Tumor necrosis factor alpha levels
+ebi-a-GCST004427	Stromal-cell-derived factor 1 alpha levels
+ebi-a-GCST004428	Stem cell growth factor beta levels
+ebi-a-GCST004429	Stem cell factor levels
+ebi-a-GCST004430	Interleukin-16 levels
+ebi-a-GCST004431	RANTES levels
+ebi-a-GCST004432	Platelet-derived growth factor BB levels
+ebi-a-GCST004433	Macrophage inflammatory protein 1b levels
+ebi-a-GCST004434	Macrophage inflammatory protein 1a levels
+ebi-a-GCST004435	Monokine induced by gamma interferon levels
+ebi-a-GCST004436	Macrophage colony stimulating factor levels
+ebi-a-GCST004437	Monocyte chemoattractant protein-3 levels
+ebi-a-GCST004438	Monocyte chemoattractant protein-1 levels
+ebi-a-GCST004439	Interleukin-12p70 levels
+ebi-a-GCST004440	Interferon gamma-induced protein 10 levels
+ebi-a-GCST004441	Interleukin-18 levels
+ebi-a-GCST004442	Interleukin-17 levels
+ebi-a-GCST004443	Interleukin-13 levels
+ebi-a-GCST004444	Interleukin-10 levels
+ebi-a-GCST004445	Interleukin-8 levels
+ebi-a-GCST004446	Interleukin-6 levels
+ebi-a-GCST004447	Interleukin-1-receptor antagonist levels
+ebi-a-GCST004448	Interleukin-1-beta levels
+ebi-a-GCST004449	Hepatocyte growth factor levels
+ebi-a-GCST004450	Interleukin-9 levels
+ebi-a-GCST004451	Interleukin-7 levels
+ebi-a-GCST004452	Interleukin-5 levels
+ebi-a-GCST004453	Interleukin-4 levels
+ebi-a-GCST004454	Interleukin-2 receptor antagonist levels
+ebi-a-GCST004455	Interleukin-2 levels
+ebi-a-GCST004456	Interferon gamma levels
+ebi-a-GCST004457	Growth-regulated protein alpha levels
+ebi-a-GCST004458	Granulocyte-colony stimulating factor levels
+ebi-a-GCST004459	Fibroblast growth factor basic levels
+ebi-a-GCST004460	Eotaxin levels
