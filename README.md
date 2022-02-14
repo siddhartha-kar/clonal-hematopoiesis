@@ -4,7 +4,7 @@ This is the repository accompanying the manuscript titled [Genome-wide analyses 
 
 ## Scripts
 
-This repository is organized into two directories:
+This repository has two directories:
 
 - `variant_calling` which includes the Nextflow pipelines used to run Mutect2 and process the subsequent VCF files <sup>**</sup>. We used Nextflow` version 20.07.1 to run the pipelines.
   
