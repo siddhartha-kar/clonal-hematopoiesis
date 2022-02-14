@@ -1,6 +1,6 @@
 # Causes and consequences of clonal hematopoiesis in the UK Biobank
 
-This is the repository accompanying the manuscript titled [Genome-wide analyses of 200,453 individuals yields new insights into the causes and consequences of clonal hematopoiesis](https://www.medrxiv.org/content/10.1101/2022.01.06.22268846v1)
+This is the repository accompanying the manuscript titled, "[Genome-wide analyses of 200,453 individuals yields new insights into the causes and consequences of clonal hematopoiesis](https://www.medrxiv.org/content/10.1101/2022.01.06.22268846v1)".
 
 ## Directories
 
@@ -10,4 +10,4 @@ This repository has two directories:
   
 - `Mendelian_randomization` which includes the R scripts and data used for the Mendelian randomization analyses.
 
-<sup>**</sup>N.B. Due to legal restrictions, we cannot provide genome sequence data from the UK Biobank. To apply for access to these data please visit the UK Biobank [UK Biobank](https://www.ukbiobank.ac.uk/)
+<sup>**</sup>N.B. Due to legal restrictions, we cannot provide genome sequence data from the UK Biobank. To apply for access to these data please visit the [UK Biobank](https://www.ukbiobank.ac.uk/).
