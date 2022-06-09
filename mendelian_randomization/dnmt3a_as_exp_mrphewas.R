@@ -47,7 +47,7 @@ exp <- format_data(
   pos_col = "chrom_start"
 )
 
-ids <- vroom(file = "ukb-ad_outcomes_ids.txt", delim = "\t")
+ids <- vroom(file = "ukb-ad_ids.txt", delim = "\t")
 
 out <- extract_outcome_data(
   snps = exp$SNP,
